@@ -31,9 +31,9 @@ const movieData = [
     poster: 'goldeneye'
   },
   {
-    title: 'Handsome Boy Modeling Club',
+    title: 'Basic Boy Modeling Club',
     IMDBRating: 2,
-    genres: ['coming of age', 'romance'],
+    genres: ['coming of age', ' romance'],
     poster: 'handsome-boy'
   },
   {
